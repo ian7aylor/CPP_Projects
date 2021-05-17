@@ -5,7 +5,7 @@
 #include <string>
 using namespace std;
 
-int main(){
+int main(void){
 string item;
 cout << "Hello World" << endl;
 
